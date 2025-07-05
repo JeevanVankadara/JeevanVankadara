@@ -1,8 +1,9 @@
-<h1 align="center" style="color:#ffffff;">Hi there, I'm Jeevan 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A62A8&lines=Hello+World!+👋;I'm+V+Jeevan+Guptha;Welcome+to+my+GitHub+Profile!" />
 </p>
+
+
 
 ---
 
@@ -37,16 +38,7 @@ I enjoy building tech that solves real-world problems and enhances digital exper
 
 ## 💻 Tech Stack:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 ---
 
@@ -57,9 +49,6 @@ I enjoy building tech that solves real-world problems and enhances digital exper
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeevanVankadara&theme=tokyonight" width="47%"/>
 </p>
 
----
-
-## 🧠 Most Used Languages:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanVankadara&layout=compact&theme=tokyonight" />
@@ -69,11 +58,7 @@ I enjoy building tech that solves real-world problems and enhances digital exper
 
 ## ✍️ Random Dev Quote
 
-> “Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.”  
-
-<div align="right">
-  <sub style="color:pink;">– L. Peter Deutsch</sub>
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ---
